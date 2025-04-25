@@ -2,6 +2,15 @@
 
 Proyek ini mengimplementasikan algoritma genetika untuk menyelesaikan masalah penjadwalan mata pelajaran dan guru. Algoritma genetika dipilih karena kemampuannya dalam menyelesaikan masalah optimasi kompleks dengan banyak batasan.
 
+## Index Dokumentasi
+1. [Generate Population](/documentations/generate_population.md)
+2. [Calculate Fitness](/documentations/calculate_fitness.md)
+3. [Selection](/documentations/selection.md)
+4. [Crossover](/documentations/crossover.md)
+5. [Mutate](/documentations/mutate.md)
+6. [Main](/documentations/genetic_algorithm.md)
+7. [Final Result](/documentations/final_result.md)
+
 ## Tujuan Proyek
 
 Proyek ini bertujuan untuk:
